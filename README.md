@@ -4,6 +4,5 @@
 
 <br/>
 
-# TIL
 
-2021/05/30 - [.gitignore 파일 사용하기](./TIL/2021-05-31.md)
+### [📁TIL](TIL/TodayILearn.md)

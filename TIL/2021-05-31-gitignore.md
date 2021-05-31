@@ -1,4 +1,4 @@
-# TIL - .gitignore
+# CH1. .gitignore 
 
 깃에서 특정 파일 혹은 디렉토리를 관리 대상에서 제외할 때 .gitignore 파일을 사용
 
