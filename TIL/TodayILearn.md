@@ -9,3 +9,4 @@
 - [Entity 클래스에 함부로 Setter 메소드를 사용하면 안되는 이유](2021-06-04-JPA.md)
 - [생성자 대신 @Builder 를 사용하는 이유](2021-06-04-@Builder.md)
 - [JpaRepository](2021-06-04-JpsRepository.md)
+- [Spring Data JPA Test Code(@After, save, findAll)](2021-06-05-save-findAll.md)
