@@ -10,3 +10,5 @@
 - [생성자 대신 @Builder 를 사용하는 이유](2021-06-04-@Builder.md)
 - [JpaRepository](2021-06-04-JpsRepository.md)
 - [Spring Data JPA Test Code(@After, save, findAll)](2021-06-05-save-findAll.md)
+- [RestTestTemplate](2021-06-06-RestTestTemplate.md)
+- [@PathVariable vs @RequestParam](2021-06-06-@PathVariableVS@RequestParam.md)
