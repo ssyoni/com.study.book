@@ -12,3 +12,4 @@
 - [Spring Data JPA Test Code(@After, save, findAll)](2021-06-05-save-findAll.md)
 - [RestTestTemplate](2021-06-06-RestTestTemplate.md)
 - [@PathVariable vs @RequestParam](2021-06-06-@PathVariableVS@RequestParam.md)
+- [수정 API 테스트 (HttpEntity, RequestEntity, ResponseEntity)](2021-06-08-HttpEntity.md)
