@@ -6,6 +6,7 @@ import com.study.book.springboot.web.dto.PostsResponseDto;
 import com.study.book.springboot.web.dto.PostsSaveRequestDto;
 import com.study.book.springboot.web.dto.PostsUpdateRequestDto;
 import lombok.RequiredArgsConstructor;
+import org.springframework.context.annotation.Bean;
 import org.springframework.stereotype.Service;
 import org.springframework.transaction.annotation.Transactional;
 
@@ -35,4 +36,5 @@ public class PostsService {
 
         return new PostsResponseDto(entity);
     }
+
 }
